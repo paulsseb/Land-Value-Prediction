@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1565419994140.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "33417470",
+    "id" : "151B379F",
+    "lastKnownWriteTime" : 1565621947,
+    "last_content_update" : 1565621947122,
+    "path" : "C:/Users/TMJ-12/Desktop/Regression/programs/Land Value Prediction/Prediction_HousePrices_practical.R",
+    "project_path" : "Prediction_HousePrices_practical.R",
+    "properties" : {
+        "cursorPosition" : "11,1",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

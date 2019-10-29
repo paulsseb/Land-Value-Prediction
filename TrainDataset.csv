@@ -1,0 +1,11 @@
+District,Area,Electricity,Road_Network,Hospital,Living_Standards,Population,Land_Size,Price,Year
+Kampala,Namugongo,Yes,Moderate,Yes,High,Moderate,1,176000,2014
+Kampala,Bukerere,Yes,Moderate,Yes,Low,Scarce,1,370000,2015
+Wakiso,Gayaza,Yes,Good,Yes,Low,High,2,875909,2009
+Kampala,Busabala,No,Good,No,Low,Scarce,1,100000,2007
+Kampala,Komamboga,Yes,Good,No,High,High,1,580000,2009
+Kampala,Kajjansi,Yes,Good,No,Moderate,Scarce,3,577000,2017
+Kampala,Mengo,Yes,Good,Yes,Moderate,High,1,665000,2019
+Kampala,Lubowa,No,Moderate,No,Moderate,Low,1,425000,2010
+Kampala,Kira Bulindo,Yes,Moderate,No,Moderate,Low,1,225000,2013
+Wakiso,Komamboga,Yes,Moderate,Yes,Moderate,High,4,660000,2009

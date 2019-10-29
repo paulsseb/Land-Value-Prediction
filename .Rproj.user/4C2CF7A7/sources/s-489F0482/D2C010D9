@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1565453110802.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "D2C010D9",
+    "lastKnownWriteTime" : 8246223293474941986,
+    "last_content_update" : 1565453110802,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "B6FB3DA3",
+        "caption" : "house_train",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=house_train&cache_key=B6FB3DA3",
+        "displayedObservations" : "9",
+        "environment" : "",
+        "expression" : "house_train",
+        "object" : "house_train",
+        "preview" : "0",
+        "totalObservations" : "9",
+        "variables" : "10"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

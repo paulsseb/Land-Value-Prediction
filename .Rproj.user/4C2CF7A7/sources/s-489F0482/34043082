@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1565419992586.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2403581733",
+    "id" : "34043082",
+    "lastKnownWriteTime" : 1564693497,
+    "last_content_update" : 1564693497,
+    "path" : "C:/Users/TMJ-12/Desktop/Regression/programs/Land Value Prediction/login.r",
+    "project_path" : "login.r",
+    "properties" : {
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
